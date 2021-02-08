@@ -1,0 +1,13 @@
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.deps.json
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.dll
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Data.pdb
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Common.dll
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Models.dll
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Common.pdb
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\bin\Debug\netstandard2.0\PetStore.Models.pdb
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.csproj.CopyComplete
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.dll
+C:\Users\ScorpS\source\repos\PetShop\PetStore.Data\obj\Debug\netstandard2.0\PetStore.Data.pdb

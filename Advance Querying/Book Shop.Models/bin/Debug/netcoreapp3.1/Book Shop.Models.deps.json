@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Book Shop.Models/1.0.0": {
+        "runtime": {
+          "Book Shop.Models.dll": {}
+        }
+      },
+      "Book Shop.Models.Enums/1.0.0": {
+        "runtime": {
+          "Book Shop.Models.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Book Shop.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Book Shop.Models.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

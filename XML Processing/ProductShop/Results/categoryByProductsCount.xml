@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Categories>
+  <Category>
+    <name>Garden</name>
+    <count>23</count>
+    <averagePrice>709.947391</averagePrice>
+    <totalRavenue>16328.79</totalRavenue>
+  </Category>
+  <Category>
+    <name>Adult</name>
+    <count>22</count>
+    <averagePrice>704.410000</averagePrice>
+    <totalRavenue>15497.02</totalRavenue>
+  </Category>
+  <Category>
+    <name>Drugs</name>
+    <count>22</count>
+    <averagePrice>819.444545</averagePrice>
+    <totalRavenue>18027.78</totalRavenue>
+  </Category>
+  <Category>
+    <name>Weapons</name>
+    <count>22</count>
+    <averagePrice>936.414090</averagePrice>
+    <totalRavenue>20601.11</totalRavenue>
+  </Category>
+  <Category>
+    <name>Other</name>
+    <count>19</count>
+    <averagePrice>788.754210</averagePrice>
+    <totalRavenue>14986.33</totalRavenue>
+  </Category>
+</Categories>

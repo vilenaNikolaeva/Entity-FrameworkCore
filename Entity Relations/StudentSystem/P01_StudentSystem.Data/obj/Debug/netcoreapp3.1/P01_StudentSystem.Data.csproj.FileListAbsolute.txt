@@ -1,0 +1,13 @@
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.deps.json
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.dll
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.json
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.runtimeconfig.dev.json
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\bin\Debug\netcoreapp3.1\P01_StudentSystem.Data.Models.pdb
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.csproj.CopyComplete
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.dll
+C:\Users\ScorpS\source\repos\Entity Relationss\P01_StudentSystem.Data\obj\Debug\netcoreapp3.1\P01_StudentSystem.Data.pdb

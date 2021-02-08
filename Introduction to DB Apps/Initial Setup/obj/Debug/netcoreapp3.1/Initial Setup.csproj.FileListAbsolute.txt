@@ -1,0 +1,18 @@
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\Initial Setup.exe
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\obj\Debug\netcoreapp3.1\Initial Setup.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\obj\Debug\netcoreapp3.1\Initial Setup.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\obj\Debug\netcoreapp3.1\Initial Setup.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\Initial Setup.deps.json
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\Initial Setup.runtimeconfig.json
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\Initial Setup.runtimeconfig.dev.json
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\Initial Setup.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\Initial Setup.pdb
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\obj\Debug\netcoreapp3.1\Initial Setup.csproj.CopyComplete
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\obj\Debug\netcoreapp3.1\Initial Setup.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Initial Setup\obj\Debug\netcoreapp3.1\Initial Setup.pdb

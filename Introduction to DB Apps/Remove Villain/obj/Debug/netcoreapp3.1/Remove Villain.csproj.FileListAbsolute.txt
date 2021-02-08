@@ -1,0 +1,18 @@
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\Remove Villain.exe
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\obj\Debug\netcoreapp3.1\Remove Villain.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\obj\Debug\netcoreapp3.1\Remove Villain.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\Remove Villain.deps.json
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\Remove Villain.runtimeconfig.json
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\Remove Villain.runtimeconfig.dev.json
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\Remove Villain.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\Remove Villain.pdb
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\obj\Debug\netcoreapp3.1\Remove Villain.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\obj\Debug\netcoreapp3.1\Remove Villain.csproj.CopyComplete
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\obj\Debug\netcoreapp3.1\Remove Villain.dll
+C:\Users\ScorpS\source\repos\Introduction to DB Apps\Remove Villain\obj\Debug\netcoreapp3.1\Remove Villain.pdb

@@ -1,0 +1,38 @@
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.exe
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.deps.json
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.json
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.runtimeconfig.dev.json
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Product Shop.pdb
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.csproj.CopyComplete
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.dll
+C:\Users\ScorpS\source\repos\JSON Processing\Product Shop\obj\Debug\netcoreapp3.1\Product Shop.pdb

@@ -1,0 +1,41 @@
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.exe
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.deps.json
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.runtimeconfig.json
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.runtimeconfig.dev.json
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.pdb
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\obj\Debug\netcoreapp3.1\Book Shop.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\obj\Debug\netcoreapp3.1\Book Shop.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\obj\Debug\netcoreapp3.1\Book Shop.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\obj\Debug\netcoreapp3.1\Book Shop.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\obj\Debug\netcoreapp3.1\Book Shop.pdb
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.Data.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.Models.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.Models.Enums.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.Data.pdb
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.Models.pdb
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Book Shop.Models.Enums.pdb
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\obj\Debug\netcoreapp3.1\Book Shop.csproj.CopyComplete
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ScorpS\source\repos\Advance Querying\Book Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

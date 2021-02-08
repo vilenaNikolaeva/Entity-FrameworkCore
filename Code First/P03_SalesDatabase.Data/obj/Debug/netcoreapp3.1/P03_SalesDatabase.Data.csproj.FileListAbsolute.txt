@@ -1,0 +1,13 @@
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\bin\Debug\netcoreapp3.1\P03_SalesDatabase.Data.deps.json
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\bin\Debug\netcoreapp3.1\P03_SalesDatabase.Data.dll
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\bin\Debug\netcoreapp3.1\P03_SalesDatabase.Data.Models.dll
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\bin\Debug\netcoreapp3.1\P03_SalesDatabase.Data.Models.pdb
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\obj\Debug\netcoreapp3.1\P03_SalesDatabase.Data.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\obj\Debug\netcoreapp3.1\P03_SalesDatabase.Data.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\obj\Debug\netcoreapp3.1\P03_SalesDatabase.Data.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\obj\Debug\netcoreapp3.1\P03_SalesDatabase.Data.csproj.CopyComplete
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\bin\Debug\netcoreapp3.1\P03_SalesDatabase.Data.runtimeconfig.json
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\bin\Debug\netcoreapp3.1\P03_SalesDatabase.Data.runtimeconfig.dev.json
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\bin\Debug\netcoreapp3.1\P03_SalesDatabase.Data.pdb
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\obj\Debug\netcoreapp3.1\P03_SalesDatabase.Data.dll
+C:\Users\ScorpS\source\repos\Code First\P03_SalesDatabase.Data\obj\Debug\netcoreapp3.1\P03_SalesDatabase.Data.pdb

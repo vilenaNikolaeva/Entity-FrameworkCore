@@ -1,0 +1,8 @@
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\ScorpS\source\repos\ORM_Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
